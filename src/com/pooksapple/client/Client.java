@@ -1,4 +1,4 @@
-package com.oak.Clinet;
+package com.pooksapple.client;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
