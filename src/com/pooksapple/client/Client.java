@@ -56,6 +56,7 @@ private boolean connect() throws UnknownHostException, IOException, ClassNotFoun
 	System.out.println("learning git");
 	p.getName();
 	  
+	System.out.println("second commmit");
 	  ojs.writeObject(personObj());
 	  
 	 
